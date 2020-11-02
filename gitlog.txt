@@ -1,0 +1,18 @@
+* 7d91fbb (HEAD -> master) deleted proj.sh
+* c404b0f delete hit.txt
+* a423e31 test moving
+* 065d971 moving file 2-3
+* be9d20b rename file 3.txt
+* 93bf323 reneame level4 file
+* a25c809 (origin/master, origin/HEAD) recursiv
+* dc3b829 neww add hit
+* 604e39e adding more txt
+* 69bee5f my first
+*   9857735 Merge branch 'master' of https://github.com/edflorin/github-edflorin
+|\  
+| * d1dc9c2 Delete start.txt
+* | ef4e7a7 adding new scripts
+|/  
+* 8eaada2 adding start text file
+* d25919b Adding start text file
+* 9af51f7 Initial commit
