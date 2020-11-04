@@ -1,10 +1,15 @@
-* 7d91fbb (HEAD -> master) deleted proj.sh
+* da658b0 (HEAD -> master) adding another line readme.md
+* b05078f gitlog.txt mod
+* 2ab9274 readme mod and rebase
+* fdff457 (origin/master, origin/HEAD) read
+* 2786756 git log
+* 7d91fbb deleted proj.sh
 * c404b0f delete hit.txt
 * a423e31 test moving
 * 065d971 moving file 2-3
 * be9d20b rename file 3.txt
 * 93bf323 reneame level4 file
-* a25c809 (origin/master, origin/HEAD) recursiv
+* a25c809 recursiv
 * dc3b829 neww add hit
 * 604e39e adding more txt
 * 69bee5f my first
@@ -16,6 +21,3 @@
 * 8eaada2 adding start text file
 * d25919b Adding start text file
 * 9af51f7 Initial commit
-
-
-this is new
