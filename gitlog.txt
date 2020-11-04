@@ -1,4 +1,9 @@
-* da658b0 (HEAD -> master) adding another line readme.md
+* 1589d0a (probleme) gitlog solved
+* 132c5b8 fb probleme gitlog
+| * 8b93f2d (HEAD -> master) gitlog conflict
+|/  
+* 077b774 gitlog.txt update
+* da658b0 adding another line readme.md
 * b05078f gitlog.txt mod
 * 2ab9274 readme mod and rebase
 * fdff457 (origin/master, origin/HEAD) read
@@ -21,13 +26,3 @@
 * 8eaada2 adding start text file
 * d25919b Adding start text file
 * 9af51f7 Initial commit
-r
-rgn
-r
-br
-br
-tb
-trb
-r
-btr
-
